@@ -7,6 +7,7 @@
         </samp>
 </h3>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=%EA%B1%B0%EC%A7%93&vCenter=%EA%B1%B0%EC%A7%93&repeat=%EC%A7%84%EC%8B%A4&random=%EA%B1%B0%EC%A7%93&width=435&lines=Hey+There!%2C+I+am+JIDAM+EUN)](https://git.io/typing-svg)
 
 <p align="center"> 
   <samp>
