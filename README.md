@@ -25,12 +25,12 @@
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white"/>
  </a>
 </p>
-<br />
+<br/>
 
 <!-- About Section -->
  # About me
- <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
+ <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<br>
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
@@ -40,6 +40,7 @@
  💬 &emsp; Ask me about anything [here](https://github.com/JD12321/JD12321/issues)
 
 </p>
+<br/>
 
 <br/>
 <br/>
