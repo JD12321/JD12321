@@ -2,12 +2,8 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp> Hey There!, I am
-                <b>JIDAM EUN</b>
-        </samp>
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=%EC%A7%84%EC%8B%A4&vCenter=%EC%A7%84%EC%8B%A4&repeat=%EC%A7%84%EC%8B%A4&random=%EA%B1%B0%EC%A7%93&width=435&lines=Hey+There!%2C+I+am+JIDAM+EUN" alt="Typing SVG" /></a>
 </h3>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=%EC%A7%84%EC%8B%A4&vCenter=%EC%A7%84%EC%8B%A4&repeat=%EC%A7%84%EC%8B%A4&random=%EA%B1%B0%EC%A7%93&width=435&lines=Hey+There!%2C+I+am+JIDAM+EUN)](https://git.io/typing-svg)
 
 <p align="center"> 
   <samp>
