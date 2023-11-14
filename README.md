@@ -1,9 +1,9 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJD12321&count_bg=%233695DE&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!-- Intro  -->
-<h3 align="center">
+<p align="center">
         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=%EC%A7%84%EC%8B%A4&vCenter=%EC%A7%84%EC%8B%A4&repeat=%EC%A7%84%EC%8B%A4&random=%EA%B1%B0%EC%A7%93&width=435&lines=Hey+There!%2C+I+am+JIDAM+EUN" alt="Typing SVG" /></a>
-</h3>
+</p>
 
 <p align="center"> 
   <samp>
