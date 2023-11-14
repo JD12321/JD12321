@@ -30,7 +30,7 @@
 <!-- About Section -->
  # About me
  <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-<br><br>
+
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
@@ -40,12 +40,11 @@
  💬 &emsp; Ask me about anything [here](https://github.com/JD12321/JD12321/issues)
 
 </p>
-<br/>
 
 <br/>
 <br/>
 <br/>
-<br/>
+
 ## Use To Code
 
 <p>
