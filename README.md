@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
- <a href="https://twitter.com/alsiam_dev" target="_blank">
+ <a href="https://traveltong.com/" target="_blank">
   <img src="https://img.shields.io/badge/WordPress-3776AB?style=for-the-badge&logo=wordpress&logoColor=white">
  </a>
  <a href="https://instagram.com/today_issues" target="_blank">
