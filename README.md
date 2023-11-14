@@ -7,7 +7,7 @@
 
 <p align="center"> 
   <samp>
-    <p>
+    <br>
     「 I am attending Dongyang Future University AI software department in <b>Korea</b> 」
     <br>
     <br>
@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white"/>
  </a>
 </p>
-</p>
+<br/>
 
 <!-- About Section -->
  # About me
