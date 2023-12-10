@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=80&section=header)
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJD12321&count_bg=%233695DE&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!-- Intro  -->
@@ -8,9 +6,6 @@
                 <b>JIDAM EUN</b>
         </samp>
 </h3>
-
-![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Hey%20There!,%20I%20am%20JIDAM%20EUN&fontSize=40&color=0:8871e5,100:b678c4&Stroke=b678c4)
-
 
 <p align="center"> 
   <samp>
