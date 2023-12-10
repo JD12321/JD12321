@@ -9,6 +9,9 @@
         </samp>
 </h3>
 
+![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Hey%20There!,%20I%20am%20JIDAM%20EUN&fontSize=40&color=0:8871e5,100:b678c4&Stroke=b678c4)
+
+
 <p align="center"> 
   <samp>
     <br>
